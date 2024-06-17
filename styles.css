@@ -1,0 +1,29 @@
+.bg-18467d {
+    background-color: #18467d;
+}
+
+.left-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #3072fc;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.right-bg {
+    position: absolute;
+    top: 0;
+    left: 60%;
+    width: 40%;
+    height: 100%;
+    background-color: #18467d;
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 40% 100%);
+}
+.content {
+    position: relative;
+    z-index: 10;
+}
+.body {
+    font-family: 'Roboto', sans-serif;
+}
