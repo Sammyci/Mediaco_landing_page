@@ -51,6 +51,6 @@ To run this project locally, follow these steps:
   Email: cidawang24@gmail.com
   Phone: 0435773971
 ## License
-   This project is licensed under the MIT License. See the LICENSE file for details.
+   This project is licensed under the Apache License. See the LICENSE file for details.
   
 
