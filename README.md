@@ -44,12 +44,13 @@ To run this project locally, follow these steps:
 └── README.md
   ```
 
-##Contact
+## Contact
   If you have any questions or need further assistance, feel free to reach out:
 
   Full Name: Sam Ci
   Email: cidawang24@gmail.com
   Phone: 0435773971
-##License
+## License
+   This project is licensed under the MIT License. See the LICENSE file for details.
   
 
